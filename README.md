@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### :man_technologist: About Me :
+### :man_technologist: My name is Ubush Ubushaev
+
 🏫My education: Master's Degree in 21.04.01 Petroleum Engineering
 
 📑Certifications: Data Analyst, Yandex Practicum

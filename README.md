@@ -5,6 +5,7 @@ My education: Master's Degree in 21.04.01 Petroleum Engineering
 
 Certifications: Data Analyst, Yandex Practicum
 
+### My tech stack
 <div id="badges">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>

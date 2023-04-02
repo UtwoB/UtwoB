@@ -2,6 +2,7 @@
 
 ### :man_technologist: About Me :
 My education: Master's Degree in 21.04.01 Petroleum Engineering
+Certifications: Data Analysis, Yandex Practicum
 <!--
 **UtwoB/UtwoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,4 @@
-### Hi there, I'm Ubush 
+### Hi there 👋, I'm Ubush 
 
 ### :man_technologist: About Me :
 My education: Master's Degree in 21.04.01 Petroleum Engineering

@@ -5,6 +5,9 @@ My education: Master's Degree in 21.04.01 Petroleum Engineering
 
 Certifications: Data Analyst, Yandex Practicum
 
+<div>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</div>
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">

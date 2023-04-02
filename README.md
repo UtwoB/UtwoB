@@ -14,7 +14,7 @@ Certifications: Data Analyst, Yandex Practicum
   <img src="https://img.shields.io/badge/Seaborn-indigo?style=for-the-badge&logo=seaborn&logoColor=blue" alt="Seaborn Badge"/>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook Badge"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres Badge"/>
-  <img src="https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=red" alt="Tableau Badge"/>
+  <img src="https://img.shields.io/badge/Tableau-pink?style=for-the-badge&logo=tableau&logoColor=red" alt="Tableau Badge"/>
 </div>
 
 <!--
